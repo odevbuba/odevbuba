@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, Me chamo Bruno Rabuske
 
-<!--
-**odevbuba/odevbuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>Gosto de ser curioso referente a tecnologia. Sou estudante de Engenharia da Computação 💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>📚 Atualmente estudando, back-end e mobile.
+<br/>⏳ Buscando ter uma base sólida.
+<br/>📜 Sobre mim: Gosto de tecnologia, games, series e jogar basquete.
+<br/>:email: bubaodev@gmail.com
+<br/>💼 <a href="https://www.linkedin.com/in/brunofrabuske/">LinkedIn</a>
+
+
+
+
+
+
+
+
+
+
