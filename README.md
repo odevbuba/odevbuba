@@ -1,6 +1,6 @@
 # Olá, Me chamo Bruno Rabuske
 
-<br>Gosto de ser curioso referente a tecnologia. Sou estudante de Engenharia da Computação 💻
+<br>Sou curioso referente a tecnologia. Sou estudante de Engenharia da Computação 💻
 
 
 <br/>📚 Atualmente estudando, back-end e mobile.
